@@ -84,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Calculator.sol": "Calculator"
+			"contracts/04_calculator.sol": "Calculator"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -98,7 +98,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Calculator.sol": {
+		"contracts/04_calculator.sol": {
 			"keccak256": "0x59fa1a9eb397fe9c7063e7bb3b87ac3f87542289a9aeb7d187ccaab71596842b",
 			"license": "MIT",
 			"urls": [

@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "message",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/0_hello.sol": "Hello"
+			"contracts/5_twitter.sol": "twitter"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/0_hello.sol": {
-			"keccak256": "0x76996ea35ed6b0a14f311f65c123a66ad032121e61c4320fcf7a6a2f0299bc7f",
+		"contracts/5_twitter.sol": {
+			"keccak256": "0xa10c7bc0c1b548be2f36576b68d24ccebe178d27437b65f6df2e321500918eff",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://76a5516d612f5668410ab1d5bad506179e79e2f7b61c1ed3e78c53849c4b0883",
-				"dweb:/ipfs/Qmea4uZpn3T3CaFjQhoyQMqecGejR5s97zQAJ57aFfCggw"
+				"bzz-raw://aa6ca50062b5da720c581027ff6c95690eb06ee9ca6225aaf23b8cafc285e131",
+				"dweb:/ipfs/QmQ4qouhkjMG1XG8mE4KkDiRyE2NF7yZW4id1dB4gnVtgT"
 			]
 		}
 	},
